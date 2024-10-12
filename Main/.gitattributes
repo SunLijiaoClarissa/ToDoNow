@@ -27,3 +27,4 @@ Release date : 2024.10.2
 Add progress bar Settings.
 scrollbar ui improved.
 Added backup to file function.
+fixed issue when items list was not fully visible.
