@@ -1,21 +1,21 @@
 Here is a version change log for the ToDoNow app:
 
-版本1.0：
-发布日期：2024.10.1
+Version 1.0:
+Release date: 2024.10.1
 
-任务管理功能：
-1.用户可以通过输入框添加新任务到任务列表中。
-2.任务会显示在一个清单中，每个任务旁边都有一个“删除”按钮。
-3.用户可以通过点击“删除”按钮删除任务。
+Task management features:
+1. You can add a new task to the task list through the input box.
+2. Tasks are displayed in a list with a "Delete" button next to each task.
+3. Users can delete tasks by clicking the "Delete" button.
 
-表单功能：
-1.输入框允许用户输入任务描述。
-2.添加任务后，输入框会自动清空。
+Form functions:
+1. The input box allows the user to enter a task description.
+2. After a task is added, the input box is automatically cleared.
 
-任务列表:
-1.动态生成的任务列表，显示用户添加的所有任务。
-2.任务项以清单形式展示，并提供删除功能。
+Task list:
+1. The dynamically generated task list displays all tasks added by the user.
+2. The task items are displayed in a list and can be deleted.
 
-列表:
-1.使用了简洁的用户界面设计，包含白色对称布局、圆角对称和任务项的视觉分隔。
-2.提供了按钮的悬停效果，提升用户交互体验。
+List:
+1. Uses a simple user interface design, including white symmetrical layout, rounded corner symmetry, and visual separation of task items.
+2. Provides the hover effect of buttons to improve user interaction experience.
