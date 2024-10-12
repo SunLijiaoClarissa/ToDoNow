@@ -74,3 +74,28 @@ li .delete-btn {
 li .delete-btn:hover {
     background-color: #c82333;
 }
+/* 为整个页面添加滚动条样式 */
+::-webkit-scrollbar {
+    width: 8px; /* 设置滚动条的宽度 */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #28a745; /* 滚动条的颜色 */
+    border-radius: 10px; /* 圆角效果 */
+    border: 2px solid #fff; /* 滚动条周围的白色边框 */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #218838; /* 当用户悬停在滚动条上时的颜色 */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f4f4f4; /* 滚动条轨道的颜色 */
+    border-radius: 10px; /* 圆角效果 */
+}
+
+/* 仅针对任务列表添加滚动条样式 */
+#task-list {
+    max-height: 300px; /* 设置任务列表的最大高度 */
+    overflow-y: auto; /* 启用垂直滚动条 */
+}
