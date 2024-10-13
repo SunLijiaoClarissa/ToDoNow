@@ -1,0 +1,7 @@
+# .env (for development)
+API_URL=http://localhost:3000/api
+DB_CONNECTION=localhost:5432/dev_database
+
+# .env (for production)
+API_URL=https://prod.todonow.com/api
+DB_CONNECTION=prod_database_url
